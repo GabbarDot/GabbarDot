@@ -23,12 +23,12 @@
   <tr>
       <td align="center">
       <a href="https://www.linkedin.com/in/onkararadhye/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FkonkararadhyeF&subtitle=@Onkar+Aradhye&size=square" alt="Onkar Aradhye">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FkonkararadhyeF&subtitle=@Gabbar&size=square" alt="Onkar Aradhye">
       </a>
     </td>
   <td align="center">
   <a href="https://github.com/onkararadhye" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fonkararadhye&subtitle=onkararadhye&size=square" alt="onkararadhye">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fonkararadhye&subtitle=GabbarDot&size=square" alt="onkararadhye">
   </a>
 </td>
   </tr>
